@@ -1,7 +1,7 @@
 # TerraStorm-Simplified
  The still failed project following Terrastorm  
  Manifested on **3/24/2022**, according to file metadata
-![Screenshot of Said Project]("/screenshot.png")
+![Screenshot of Said Project](/screenshot.png)
 
 > this time around i'll finish
 - Me, again. And again ***WRONG***
